@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1595935431 source:c:\users\Äåñè\desktop\green vs red\cell.cpp
+	"Cell.h"
+
+1595972232 c:\users\Äåñè\desktop\green vs red\cell.h
+	<iostream>
+
+1595974527 source:c:\users\Äåñè\desktop\green vs red\main.cpp
+	<iostream>
+	"GridParser.h"
+
+1595974028 source:c:\users\Äåñè\desktop\green vs red\grid.cpp
+	"Grid.h"
+	<cstring>
+
+1595974214 c:\users\Äåñè\desktop\green vs red\grid.h
+	<iostream>
+	<vector>
+	"Cell.h"
+
+1595974214 c:\users\Äåñè\desktop\green vs red\gridparser.h
+	<iostream>
+	"Grid.h"
+
+1595935431 source:c:\users\Äåñè\desktop\mm inershp\green vs red\cell.cpp
+	"Cell.h"
+
+1595972232 c:\users\Äåñè\desktop\mm inershp\green vs red\cell.h
+	<iostream>
+
+1595974028 source:c:\users\Äåñè\desktop\mm inershp\green vs red\grid.cpp
+	"Grid.h"
+	<cstring>
+
+1595974214 c:\users\Äåñè\desktop\mm inershp\green vs red\grid.h
+	<iostream>
+	<vector>
+	"Cell.h"
+
+1595974527 source:c:\users\Äåñè\desktop\mm inershp\green vs red\main.cpp
+	<iostream>
+	"GridParser.h"
+
+1595974214 c:\users\Äåñè\desktop\mm inershp\green vs red\gridparser.h
+	<iostream>
+	"Grid.h"
+
